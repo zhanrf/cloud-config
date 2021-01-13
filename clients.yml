@@ -3,5 +3,11 @@ spring:
     consul:
       host: localhost
       port: 8500
+#  rabbit相关配置 15672是web管理界面的端口，5672是MQ访问的端口
+  rabbitmq:
+    host: 172.168.7.83
+    port: 5672
+    username: guest
+    password: guest    #这是客户端，不需要刷新
 
 name: zrf
