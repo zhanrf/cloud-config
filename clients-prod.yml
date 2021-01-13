@@ -1,4 +1,4 @@
 server:
   port: 3366
   
- info: config-prod
+info: config-prod
