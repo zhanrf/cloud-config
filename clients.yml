@@ -10,4 +10,4 @@ spring:
     username: guest
     password: guest    #这是客户端，不需要刷新
 
-name: zrf1
+name: zrf2
