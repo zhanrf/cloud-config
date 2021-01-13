@@ -1,4 +1,5 @@
-server:
-  port: 3355
-  
-info: config-dev
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
