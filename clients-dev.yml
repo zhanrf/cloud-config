@@ -1,1 +1,3 @@
-info: configdev
+server: 
+  port: 3355
+info: config-dev
